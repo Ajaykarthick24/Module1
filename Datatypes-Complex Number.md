@@ -20,5 +20,7 @@ print(x.real)
 print(x.imag)
 
 ## Output
+<img width="434" height="332" alt="image" src="https://github.com/user-attachments/assets/48bc7049-ac08-4f28-a1ac-0c6427e85df1" />
 
 ## Result
+Thus the program which reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is executed successfully.
